@@ -29,6 +29,7 @@ uploadInput?.addEventListener(
 
     progress.hidden = false;
     uploadBtn.disabled = true;
+    outputImg.hidden = true;
     loader.hidden = false;
 
 
